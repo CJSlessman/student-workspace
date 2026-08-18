@@ -10,7 +10,7 @@
       "name": "student-workspace",
       "source": "./plugins/student-workspace",
       "description": "Organize an entire semester of coursework in one repo and get structured help from Claude Code across programming and non-programming classes.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Charles Slessman",
         "url": "https://github.com/CJSlessman"

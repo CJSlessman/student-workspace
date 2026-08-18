@@ -1,6 +1,6 @@
 {
   "name": "student-workspace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Organize an entire semester of coursework in one repo and get structured help from Claude Code across programming and non-programming classes.",
   "author": {
     "name": "Charles Slessman",
