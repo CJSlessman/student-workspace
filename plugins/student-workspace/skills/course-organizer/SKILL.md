@@ -13,7 +13,7 @@ This workspace organizes one semester of coursework: one top-level folder per cl
 - **Never leave files at the repo root.** When the user drops a new file into the repo (slides, assignment PDF, dataset, starter code), move it into the correct class folder and subfolder (`slides/`, `syllabus/`, `assignments/<name>/`, ...) and tell them exactly where you put it.
 - **Ask when ambiguous.** If you can't tell which class a file or task belongs to, ask before creating or moving anything.
 - **Naming:** lowercase, hyphenated, no spaces — folders and files alike.
-- **One subfolder per assignment**, named `<short-name>` or `hw<N>-<short-name>` (e.g., `assignments/hw2-linked-lists/`). Keep the prompt, the student's work, and drafts together in it.
+- **One subfolder per assignment**, named `<short-name>` or `hw<N>-<short-name>` (e.g., `assignments/hw2-problem-set/`). Keep the prompt, the student's work, and drafts together in it.
 
 ## Schedule
 

@@ -15,12 +15,12 @@ Ask the user (concisely, in one or two rounds — use $ARGUMENTS as the semester
 
 1. Semester name (e.g., "Fall 2026").
 2. How many classes they're taking.
-3. For each class: name and course code (e.g., "Operating Systems — CS 4348").
-4. Which of those are programming/CS courses.
+3. For each class: name and course code (e.g., "Data Science — STAT 3355").
+4. Which of those are programming courses (any class with coding projects, whatever the department).
 
 ## 3. Scaffold
 
-For each class, create one top-level folder named from the course in lowercase-hyphenated form (e.g., `cs4348-operating-systems/`) containing:
+For each class, create one top-level folder named from the course in lowercase-hyphenated form (e.g., `stat3355-data-science/`) containing:
 
 - `syllabus/`, `slides/`, `notes/`, `assignments/`, `exams/`
 - `projects/` **only** for programming courses

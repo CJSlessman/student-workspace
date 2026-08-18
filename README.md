@@ -37,7 +37,7 @@ Two more commands keep the workspace growing cleanly: `/student-workspace:new-cl
 your-semester/
 ├── CLAUDE.md                    # global rules, personalized to your classes
 ├── SCHEDULE.md                  # every deadline and exam, sorted by date
-├── cs4348-operating-systems/    # example programming class
+├── stat3355-data-science/       # example programming class (any department)
 │   ├── CLAUDE.md                # course-specific rules (language, style, grading)
 │   ├── syllabus/  slides/  notes/  assignments/  exams/
 │   └── projects/                # treated as real codebases
