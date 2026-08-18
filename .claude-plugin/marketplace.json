@@ -1,0 +1,24 @@
+{
+  "name": "student-workspace",
+  "description": "Claude Code plugins for college students: organize a semester of coursework and get structured help across programming and non-programming classes.",
+  "owner": {
+    "name": "Charles Slessman",
+    "url": "https://github.com/CJSlessman"
+  },
+  "plugins": [
+    {
+      "name": "student-workspace",
+      "source": "./plugins/student-workspace",
+      "description": "Organize an entire semester of coursework in one repo and get structured help from Claude Code across programming and non-programming classes.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Charles Slessman",
+        "url": "https://github.com/CJSlessman"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/CJSlessman/student-workspace",
+      "category": "productivity",
+      "keywords": ["students", "education", "coursework", "organization", "semester", "college"]
+    }
+  ]
+}

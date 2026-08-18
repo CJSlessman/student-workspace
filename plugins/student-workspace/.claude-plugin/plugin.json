@@ -1,0 +1,12 @@
+{
+  "name": "student-workspace",
+  "version": "0.1.0",
+  "description": "Organize an entire semester of coursework in one repo and get structured help from Claude Code across programming and non-programming classes.",
+  "author": {
+    "name": "Charles Slessman",
+    "url": "https://github.com/CJSlessman"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/CJSlessman/student-workspace",
+  "keywords": ["students", "education", "coursework", "organization", "semester", "college"]
+}
